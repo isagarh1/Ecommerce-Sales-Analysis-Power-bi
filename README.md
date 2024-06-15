@@ -4,7 +4,7 @@ Here are the key findings and insights:
 
 •	YTD Sales & Profit:
 o	Sales are at $11.53M, a slight decrease of 0.83% YTD.
-o	Profit stands at $1.3M, an increase of 4.50% YLYSD.
+o	Profit stands at $1.3M, an increase of 4.50% YTD.
 
 •	Sales by Category:
 o	Office Supplies lead with $6.2M in sales, down 1% YTD.
